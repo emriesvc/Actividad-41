@@ -10,6 +10,12 @@ package ies;
  * @version v 0.0
  */
 
+/**
+ * 
+ ** @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
+ * 
+ */
+
 
 public class Empleado {
 	private int emp_no;
