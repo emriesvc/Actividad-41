@@ -1,4 +1,15 @@
+/**
+* Esta clase la utilizo para aprender a documentar con javadoc
+*/
+
+
 package ies;
+/**
+ * 
+ * @author EMR
+ * @version v 0.0
+ */
+
 
 public class Empleado {
 	private int emp_no;
